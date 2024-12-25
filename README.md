@@ -1,4 +1,4 @@
-### GitHub Repository Submission: Monarch Butterfly Population Decline Prediction
+### Monarch Butterfly Population Decline Prediction
 
 This summary outlines the key details, approach, and findings of the project aimed at predicting monarch butterfly sightings and analyzing the contributing factors to their population decline. This project was part of the **2024 Rowdy Datathon**, and the focus was to use machine learning and deep learning models to study population trends and factors affecting monarch butterflies.
 
